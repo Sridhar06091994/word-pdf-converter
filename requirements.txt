@@ -1,0 +1,6 @@
+(
+echo fastapi
+echo uvicorn
+echo python-multipart
+echo pdf2docx
+) > requirements.txt
