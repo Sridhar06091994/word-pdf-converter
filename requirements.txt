@@ -1,6 +1,4 @@
-(
-echo fastapi
-echo uvicorn
-echo python-multipart
-echo pdf2docx
-) > requirements.txt
+echo fastapi> requirements.txt
+echo uvicorn>> requirements.txt
+echo python-multipart>> requirements.txt
+echo pdf2docx>> requirements.txt
